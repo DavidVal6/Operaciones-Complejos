@@ -1,6 +1,7 @@
 import math
 
 
+
 def cartesianas(c1):
     r = modulo(c1)
     real = r*math.cos(fase(c1))
