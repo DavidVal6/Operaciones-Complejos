@@ -1,6 +1,7 @@
 # Operaciones con espacios vectoriales complejos
 
-esta libreria le permitira hacer operacones tales como: suma, resta, division,  multiplicacion, fase, cambio de polar a cartesiano y conjugado.
+Esta libreria le permitira hacer operaciones con espacios vectoriales, tales como
+vectores o matrices complejas o si es deseado ambos. 
 
 ## Para usar la libreria:
 
