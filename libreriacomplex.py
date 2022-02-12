@@ -38,6 +38,8 @@ def multiplicacioncomplex(c1, c2):
     parte_imaginaria = (c1[0]*c2[1])+(c1[1]*c2[0])
     return parte_real, parte_imaginaria
 
+def restacomplejos(c1, c2):
+    return c1[0] - c2[0], c1[1] - c2[1]
 
 def sumacomplejos(c1, c2):
     return c1[0]+c2[0], c1[1]+c2[1]
